@@ -1,0 +1,13 @@
+@import './block/general';
+
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Manrope';
+    background-color: black!important;
+}
