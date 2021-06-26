@@ -1,0 +1,86 @@
+
+.intro-wrapper {
+    display: flex;
+    padding-top: 50px;
+}
+
+.intro {
+    background: #141414;
+}
+
+.intro-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.intro-content {
+    z-index: 1;
+    margin-top: 128px;
+    margin-bottom: 158px;
+}
+
+.intro-name {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 58px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 24px;
+}
+
+.intro-text {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.75;
+    margin-top: 24px;
+    margin-bottom: 55px;
+}
+
+.intro-button {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #D87D4A;
+    height: 48px;
+    width: 160px;
+    border-radius: 0px;
+    padding-top: 15px;
+    padding-left: 31px;
+    padding-bottom: 15px;
+    padding-right: 29px;
+    text-decoration: none;
+    transition: all 0.5s;
+}
+
+.intro-button:hover {
+    opacity: 0.9;
+    background-color: #FBAF85;
+}
+
+.intro-img {
+    width: 608.8px;
+    height: 616px;
+    margin-top: 0px;
+    margin-left: 70px;
+}

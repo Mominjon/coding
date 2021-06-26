@@ -1,0 +1,163 @@
+
+.mmm {
+    padding: 50px;
+}
+.z-x-9-1-wrapper {
+    background-image: url(/img/oval.png);
+    background-position: left -20px bottom;
+    background-repeat: no-repeat;
+    background-size: contain;  
+    background: #D87D4A;
+    border-radius: 8px;
+    display: flex;
+    padding-top: 100px;
+    .z-x-9-1-img {
+        img {
+            width: 410px;
+            margin-bottom: -5px;
+            margin-left: 100px;
+        }
+    }
+    .z-x-9-1-content {
+        margin-left: 130px;
+        margin-top: 50px;
+        h2 {
+            font-family: "Manrope";
+            font-style: normal;
+            font-weight: bold;
+            font-size: 56px;
+            line-height: 58px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            
+            color: #FFFFFF;
+        }
+        p {
+            margin-top: 25px;
+            font-family: "Manrope";
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            line-height: 25px;
+            color: #FFFFFF;
+            mix-blend-mode: normal;
+            opacity: 0.75;
+            width: 340px;
+            margin-bottom: 50px;
+        }
+        a {
+            background: #000000;
+            padding: 15px 30px;
+            font-family: "Manrope";
+            font-style: normal;
+            font-weight: bold;
+            font-size: 13px;
+            line-height: 18px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            color: #FFFFFF;
+            transition: background 0.5s ease;
+        }
+        a:hover {
+            background-color: #4C4C4C;
+        }
+    }
+}
+// boshqa bolim
+.z-x-9-2-wrapper {
+    margin-top: 50px;
+    display: flex;
+    .z-x-9-2-img {
+        img {
+            width: 1140px;
+            border-radius: 10px;
+        }
+    }
+    .z-x-9-2-content {
+        position: absolute;
+        margin-left: 130px;
+        margin-top: 120px;
+        h2 {
+            font-family: "Manrope";
+            font-style: normal;
+            font-weight: bold;
+            font-size: 28px;
+            line-height: 38px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: #000000;
+            margin-bottom: 40px;
+        }
+        a {
+            background: inherit;
+            padding: 15px 30px;
+            border: 1px solid #000000;
+            box-sizing: border-box;
+            font-family: "Manrope";
+            font-style: normal;
+            font-weight: bold;
+            font-size: 13px;
+            line-height: 18px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            color: #000000;
+            transition: color, background 0.5s ease;
+        }
+        a:hover {
+            background-color: #000;
+            color: #fff;
+        }
+    }
+}
+// boshqa bolim
+.z-x-9-3-wrapper {
+    border-radius: 8px;
+    display: flex;
+    padding-top: 50px;
+    .z-x-9-3-img {
+        img {
+       
+            margin-bottom: -5px;
+        
+        }
+    }
+    .z-x-9-3-content {
+        margin-left: 40px;
+        width: 550px;
+        background: #F1F1F1;
+        border-radius: 8px;
+        h2 {
+            font-family: "Manrope";
+            font-style: normal;
+            font-weight: bold;
+            font-size: 28px;
+            line-height: 38px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            margin-left: 100px;
+            margin-top: 100px;
+            color: #000000;
+            margin-bottom: 50px;
+        }
+        a {
+            background: inherit;
+            padding: 15px 30px;
+            font-family: "Manrope";
+            font-style: normal;
+            font-weight: bold;
+            border: 1px solid #000000;
+            box-sizing: border-box;
+            font-size: 13px;
+            line-height: 18px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            color: #000;
+            margin-left: 100px;
+            transition: color, background 0.5s ease;
+        }
+        a:hover {
+            background-color: #000;
+            color: #fff;
+        }
+    }
+}

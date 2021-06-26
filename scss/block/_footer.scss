@@ -1,0 +1,84 @@
+.footer-title {
+    height: 25px;
+    width: 143px;
+    margin-top: 75px;
+    color: #fff;
+}
+
+footer {
+    background: #101010;
+    margin-top: 150px;
+}
+
+.footer-text {
+    width: 540px;
+    margin-top: 40px;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.footer-name {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    margin-top: 56px;
+    padding-bottom: 15px;
+}
+
+.footer-wrapper {
+    display: flex;
+}
+
+.footer-link {
+    font-family: "Manrope";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 25px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    list-style: none;
+}
+
+.footer-li {
+    display: flex;
+    margin-top: 75px;
+    margin-left: 141px;
+    a {
+        color: #fff;
+        transition: color 0.5s ease;
+    }
+    a:hover {
+        color: #D87D4A;
+        
+    }
+}
+
+.footer-link2 {
+    margin-left: 38px;
+   
+}
+
+.footer-social {
+    position: absolute;
+    margin-top: -140px;
+    margin-left: 1000px;
+    img {
+        margin-left: 20px;
+    }
+    img:focus {
+        fill: black;
+    }
+}
